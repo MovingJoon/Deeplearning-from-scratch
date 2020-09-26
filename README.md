@@ -1,7 +1,7 @@
 # 밑바닥부터 시작하는 딥러닝 1
 
 <div>
-<img width="200" src=https://user-images.githubusercontent.com/67411105/94327671-890bc680-ffe7-11ea-84ca-46ad5c353f31.png"> 
+<img width="200" src=https://user-images.githubusercontent.com/67411105/94327776-223add00-ffe8-11ea-9ea5-cbefdd7903f1.png"> 
 </div>
                                                                                                                           
 ### chapter_1 파이썬(2020.09.04)
